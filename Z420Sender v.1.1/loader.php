@@ -1,0 +1,8 @@
+<?php
+/*   __________________________________________________
+    |  Obfuscated by YAK Pro - Php Obfuscator  1.8.8   |
+    |              on 2017-12-31 02:48:44              |
+    |    GitHub: https://github.com/pk-fr/yakpro-po    |
+    |__________________________________________________|
+*/
+class loader { public function getAccount() { goto O36454884749; O75386876866: $data = array("\155\x75\154\x74\x69\x70\x6c\145" => array("\150\157\163\x74" => $hostname, "\x75\163\145\x72\x6e\141\x6d\145" => $username, "\160\141\163\x73\x77\x6f\162\144" => $password, "\x73\145\x63\x75\162\x65" => $secure, "\160\157\162\x74" => $port), "\146\x72\x6f\x6d\x6d\141\151\154" => $frommail, "\x66\162\157\x6d\156\141\x6d\145" => $fromname, "\160\162\151\x6f\x72\151\164\171" => $priority, "\x73\x75\142\152\x65\x63\x74" => $subject, "\154\x65\164\x74\145\162" => $letter, "\x6c\141\x6e\147\x75\x61\x67\x65" => $language, "\x64\x75\160\154\x69\143\141\164\145" => $duplicate, "\x65\x6d\141\x69\154\154\x69\x73\x74" => $emaillist, "\x6c\x69\x6e\x6b" => $link, "\x64\145\154\141\x79" => array("\145\155\x61\x69\x6c" => $email, "\x74\151\155\145" => $delay)); goto O89193524656; O36454884749: require "\x6d\x79\56\160\150\160"; goto O75386876866; O89193524656: return $data; goto O26296798253; O26296798253: } public function getApiKey() { goto O65893092957; O59352264249: $apikey = array("\141\160\151\153\145\171" => $apikey); goto O66281951952; O65893092957: require "\155\x79\x2e\160\x68\x70"; goto O59352264249; O66281951952: return $apikey; goto O76749405696; O76749405696: } } ?>
