@@ -54,6 +54,7 @@ php Z420.php
 |22 February 2018 |`v1.4`|Complete|Medium|Add feature multiple relay|
 |02 March 2018 |`v1.4.1`|Complete|Low|Header update from AssasinSpam|
 |01 Juni 2018 |`v1.5`|Failed|Medium|Get score from email AssasinSpam with CURL <a href="http://spamcheck.postmarkapp.com/filter">http://spamcheck.postmarkapp.com/filter</a>|
+|06 November 2019 |`v1.6`|Complete|High|Migration from Close Source to Open Source, API KEY DEPRECATED|
 
 **APIKEY CHECKING Expired**
 
@@ -111,7 +112,7 @@ https://z420sender.com/member/index.php/Z420S/checking/apikey/Z4209350-6fa-4200-
 ## Information Issues and Security Concerns
 Contact zrav420@gmail.com
 
-## Contributor
-- Thariq Alfa `codenamezrav`
+# Be Contributor?
 
-# Wanna join? let's show your skill dude ~
+## Contributor List
+- [Thariq Alfa](https://github.com/alfaben12) Coder
