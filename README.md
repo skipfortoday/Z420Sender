@@ -116,6 +116,7 @@ Contact zrav420@gmail.com or create on issue better
 [Demo here](https://www.youtube.com/watch?v=ROB96tYhYN0)
 
 # Be Contributor?
+Add your name below
 
 ## Contributor List
 - [Thariq Alfa](https://github.com/alfaben12) Coder
