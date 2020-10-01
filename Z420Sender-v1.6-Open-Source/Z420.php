@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set("Asia/Bangkok");
+date_default_timezone_set("Asia/Jakarta");
 // last update on 17/03/2018
 // Import PHPMailer classes into the global namespace
 // These must be at the top of your script, not inside a function
