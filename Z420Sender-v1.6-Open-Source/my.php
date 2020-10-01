@@ -1,11 +1,4 @@
 <?php
-
-// $hostname[] 	= 'smtp-relay.gmail.com';
-// $username[] 	= 'riq@ptkeeza.business';
-// $password[] 	= 'alfaben07';
-// $secure[] 		= 'tls';
-// $port[] 		= '587';
-
 $hostname[] 	= 'smtp-relay.gmail.com';
 $username[] 	= 'test@example.com';
 $password[] 	= 'test123';
@@ -20,7 +13,6 @@ $port[] 		= '587';
 
 $link[] 		= 'thariqalfa.com'; // link 
 // $link[] 		= 'alfaben.cf';
-// $link[] 		= 'riqalfa.co.id';
 
 
 $frommail 		= 'costumerservice.[#zrandstring3#].serviceupdate.[#zrandstring2#][#zrandnumber2#]-letter@company.example.com';
