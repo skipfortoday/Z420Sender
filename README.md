@@ -120,4 +120,4 @@ Add your name below
 
 ## Contributor List
 - [Thariq Alfa](https://github.com/alfaben12) Coder
-- [codenamezrav](https://github.com/codenamezrav) Coder
+- [codenamezrav](https://github.com/codenamezrav) Tester
