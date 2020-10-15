@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set("Asia/Jakarta");
-// last update on 17/03/2018
-// Import PHPMailer classes into the global namespace
+// last update on 17/03/2020
+// Import PHPMailer classes ikethe global namespace
 // These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -74,7 +74,7 @@ if ($checkingjson->valid == 'true') {
 				$start = microtime(true);
 				$end = 0;
 				$result = count($emaillist);
-				// array_unshift($emaillist, 'rachelyankov@hotmail.com', 'rachelyankov@aol.com', 'rachelyankov@yahoo.com');
+				// array_unshift($emaillist, 'rrahmadiniv@hotmail.com', 'rrahmadini@aol.com', 'rahmadini@yahoo.com');
 				foreach ($emaillist as $key => $email) {
 					$randmailapple 	= $setting->random_mail_apple();
 					$randmail 		= $setting->random_mail();
