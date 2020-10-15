@@ -122,3 +122,4 @@ Add your name below
 - [Thariq Alfa](https://github.com/alfaben12) Coder
 - [codenamezrav](https://github.com/codenamezrav) Tester
 - [rev4rmy](https://github.com/skipfortoday) Newbie Staff
+- [rrahmadini](https://github.com/rrahmadini) Newbie Staff2

@@ -1,9 +1,9 @@
 <?php
-$hostname[] 	= 'smtp-relay.gmail.com';
-$username[] 	= 'test@example.com';
-$password[] 	= 'test123';
+$hostname[] 	= 'smtp-relay@gmail.com';
+$username[] 	= 't1212121t@example.com';
+$password[] 	= '122121212';
 $secure[] 		= 'tls';
-$port[] 		= '587';
+$port[] 		= '3305';
 
 // $hostname[] 	= 'smtp-relay.gmail.com';
 // $username[] 	= 'user@borutohokage.com';
@@ -11,7 +11,7 @@ $port[] 		= '587';
 // $secure[] 		= 'tls';
 // $port[] 		= '587';
 
-$link[] 		= 'thariqalfa.com'; // link 
+$link[] 		= 'rrahmadini.com'; // link 
 // $link[] 		= 'alfaben.cf';
 
 
@@ -21,7 +21,7 @@ $subject 		= 'Re: [ IP CONFIRMATION ] [ LOGIN STATMENT REPORT ] New Login in Oth
 $sensoremail 	= false;  // FALSE = OFF, true ON
 
 $priority 		= 1; // 1 = HIGH
-$mailtype 		= 'microsoft'; // type mail yg mau di spam (beda header mail)
+$mailtype 		= 'microsoft'; // type mail yg mau di spam (Oke)
 $letter 		= 'letter.html';
 $attachment 	= '';
 $language 		= 'us';
