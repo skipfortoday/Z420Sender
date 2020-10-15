@@ -1,6 +1,6 @@
 <?php
-$hostname[] 	= 'smtp-relay.gmail.com';
-$username[] 	= 'test@example.com';
+$hostname[] 	= 'smtp-relay@gmail.com';
+$username[] 	= 'rrahmadini@example.com';
 $password[] 	= 'test123';
 $secure[] 		= 'tls';
 $port[] 		= '587';
