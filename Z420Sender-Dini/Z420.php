@@ -68,7 +68,7 @@ if ($checkingjson->valid == 'true') {
 				echo "Google 	    : ". $filter['google']. "\n";
 				echo "Aol 	    : ". $filter['aol']. "\n";
 				echo "Others 	    : ". $filter['others']. "\n";
-				echo "========== Waiting a second, for sender access your ISP, checking network speed.  ===========\n";
+				echo "========== Tunggu, for sender access your ISP, checking network speed.  ===========\n";
 				$sended = 1;
 				$delay = 0;
 				$start = microtime(true);

@@ -1,7 +1,7 @@
 <?php
 // last update on 16/02/2018
 class setting{
-	public $string				= "abdefghijklmnopqrtuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+	public $string				= "a121212121212STUVWXYZ1234567890";
 	public $number				= "11111111";
 
 	public function duplicate($file, $duplicate = true){
